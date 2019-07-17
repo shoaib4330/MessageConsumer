@@ -1,5 +1,6 @@
 # MessageConsumer
-Jms Queue Consumer, Consumer Messages, Sends Notifications to Firebase, SMS to mobile devices and Emails to SMTP Server
+Jms Queue Consumer, Consumes Messages, Sends Notifications to Firebase, SMS to mobile devices and Emails to SMTP Server.
+
 A module written to send your payload/messages to Mobile Devices (which will show them as notifications)
 This module is written to:
 - Receive messages/payload from JMS Queues
