@@ -1,5 +1,5 @@
 # JMS Consumer with Email, Notification, Text Messaging Clients
-A tomcat web application.
+A Spring Boot, tomcat web application.
 This is a reusable module that does the following:
 - Listens to a configured JMS Queue (ActiveMQ Artemis, in this case)
 - Has consumers for the following purposes:
